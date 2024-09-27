@@ -51,7 +51,7 @@ def main():
         argmax([])
     except ValueError:
         print("Error encountered")
-        print("KJØRDAAA")
+        print("KJØRDAAAKJØRA")
 
 if __name__ == '__main__':
     main()
