@@ -1,4 +1,4 @@
-"""
+g"""
 Part 2, Lecture 1, Example 1
 
 Implement and test argmax() function that returns the location of a maximum.
@@ -51,7 +51,7 @@ def main():
         argmax([])
     except ValueError:
         print("Error encountered")
-        print("KJØR")
+        print("KJØRDAAA")
 
 if __name__ == '__main__':
     main()
